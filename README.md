@@ -53,7 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+![WhatsApp Image 2024-08-10 at 21 27 41_c8144cfe](https://github.com/user-attachments/assets/dbcee043-77f6-45a2-9886-aed15a5966c8)
 
+
+![WhatsApp Image 2024-08-10 at 21 27 41_e32b47ea](https://github.com/user-attachments/assets/e23c0a37-e6a7-432d-8315-e1c7f02d2b54)
 
 
 ### PREPROCESSING
@@ -75,6 +78,9 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+![WhatsApp Image 2024-08-10 at 21 27 41_e434c518](https://github.com/user-attachments/assets/96e0713a-2e61-419a-a398-a5467a25eb54)
+
+
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -91,6 +97,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+
+![WhatsApp Image 2024-08-10 at 21 27 41_e32b47ea](https://github.com/user-attachments/assets/b317eab1-7c07-4bbb-9e33-e2ec966ce9f7)
+
 
 ### Normalize -> Pre-Processing Technique:
 
